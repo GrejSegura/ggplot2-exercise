@@ -1,4 +1,6 @@
 ##an exercise mapping all flights in the world
+##data was obtained from the http://openflights.org/data.html
+##the latest data was obtained last 2012 per the website's claim
 
 library(RColorBrewer)
 library(RCurl)
